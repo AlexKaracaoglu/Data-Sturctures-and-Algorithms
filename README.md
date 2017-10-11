@@ -1,2 +1,1 @@
-# DataStructures
-Data Structures and Algorithms Course
+# Data Structures and Algorithms Course - Fall 2016
