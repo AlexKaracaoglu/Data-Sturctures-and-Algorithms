@@ -19,7 +19,4 @@ public class HeapEmpiricalStudy {
   
  //java HeapEmpiricalStudy largeW.txt LargeWResult.txt 
   
-  //I could not get the Bottom up heap sort to work so i could not do an empirical study on it. But I did do an empirical
-  //study on the regular heap sort.
-  
 }
